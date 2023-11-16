@@ -29,12 +29,12 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One em parceria com o iFood ( Bootcamp Potência Tech iFood - Desenvolvimento de Jogos).
 
 ### Modificações implementadas
-1- SweetAlert para mostrar pop-up sobre o fim do tempo e fim de jogo.
-2- Redução da vida ao fim do tempo.
-3- Implementação da função continueGame.
-4- Implementação da função gameOver
-5- Inserção de som para o fim de jogo.
-6- Inserção do favicon
+1. SweetAlert para mostrar pop-up sobre o fim do tempo e fim de jogo.
+2. Redução da vida ao fim do tempo.
+3. Implementação da função continueGame.
+4. Implementação da função gameOver
+5. Inserção de som para o fim de jogo.
+6. Inserção do favicon
 
 ---
 
